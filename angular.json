@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "TTT"
+    }
+  },
+  "defaultProject": "TTT",
+  "cli": {
+    "analytics": "de470609-e561-4b2d-bffe-26e245869149"
+  }
 }
